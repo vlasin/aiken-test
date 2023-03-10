@@ -1,0 +1,14 @@
+name = 'vs/aiken-test'
+version = '0.0.0'
+license = 'Apache-2.0'
+description = "Aiken contracts for project 'vs/aiken-test'"
+
+[repository]
+user = 'vs'
+project = 'aiken-test'
+platform = 'github'
+
+[[dependencies]]
+name = 'aiken-lang/stdlib'
+version = 'main'
+source = 'github'
